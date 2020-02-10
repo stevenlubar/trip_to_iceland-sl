@@ -1,6 +1,8 @@
 notes for trip
 
-this contain
+this contains
 -to-do list
 -itinerary
 -etc. 
+
+*and more to do*
