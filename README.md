@@ -1,1 +1,6 @@
-# trip_to_iceland-sl
+notes for trip
+
+this contain
+-to-do list
+-itinerary
+-etc. 
